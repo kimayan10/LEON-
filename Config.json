@@ -1,18 +1,19 @@
 {
-  "author": "IMRAN",
+  "author": "OGGY",
   "developermode": false,
   "language": "en",
   "approval": false,
   "premium": false,
-  "BOTNAME": "imran",
+  "BOTNAME": "Ꭷɢɢʏ ।।",
   "EMAIL": "sanjivfresh@gmail.com",
   "PREFIX": "-",
   "OPERATOR": [
     "",
-    "100091459940475"
+    "100053978238928",
+    "61579472191951"
   ],
   "ADMINBOT": [
-    "100075122837809"
+    "100053978238928"
   ],
   "OWNER": ["100075122837809"],
   "disabledcmds": [],

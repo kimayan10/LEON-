@@ -1,20 +1,20 @@
 {
-  "author": "OGGY",
+  "author": "IMRAN",
   "developermode": false,
   "language": "en",
   "approval": false,
   "premium": false,
-  "BOTNAME": "Ꭷɢɢʏ ।।",
+  "BOTNAME": "OGGY",
   "EMAIL": "sanjivfresh@gmail.com",
   "PREFIX": "-",
   "OPERATOR": [
     "",
-    "100053978238928"
+    "100091459940475"
   ],
   "ADMINBOT": [
     "100053978238928"
   ],
-  "OWNER": ["61579472191951"],
+  "OWNER": ["100075122837809"],
   "disabledcmds": [],
   "disabledevents": [],
   "note": "Don’t change owner uid or author name"
